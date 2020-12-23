@@ -5,6 +5,7 @@ import re
 import subprocess
 
 def main():
-    print("hello")
+    a = []
+    print(a[50])
 if __name__ == "__main__":
     exit(main())
