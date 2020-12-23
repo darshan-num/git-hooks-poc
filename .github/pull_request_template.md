@@ -1,18 +1,16 @@
 # About issue
-*Provide a brief description of the task.*
+*Provide a brief description of the change done.*
 
-# Related issues (If any)
-*Is this task directly related to any other tasks.*
-
-# Proposed changes
+# Changes Made
 *Could be bullet points of the changes made.*
 
-# Additional info
-*Any other information.*
+## Testing
+  * Provide a brief description of how to test your new changes.*
 
-# Checklists
+### Checklists
 - [ ] Testcases updated.
 - [ ] Documentations done.
+- [ ] DB Documentation and models Updated.
 
-# Screenshots
+## Screenshots
 *provide some relevant screenshots of the work done.*
