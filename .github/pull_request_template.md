@@ -11,8 +11,9 @@
 *Any other information.*
 
 # Checklists
-- [ ] Testcases updated.
-- [ ] Documentations done.
+- [ ] Code Tested?
+- [ ] Testcases updated?
+- [ ] Documentations done?
 
 # Screenshots
 *provide some relevant screenshots of the work done.*
