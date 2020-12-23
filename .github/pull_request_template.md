@@ -1,5 +1,5 @@
 # About issue
-*Provide a brief description of the change done.*
+*Provide a brief description of the task.*
 
 # Related issues (If any)
 *Is this task directly related to any other tasks.*
