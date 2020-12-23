@@ -5,7 +5,12 @@ import re
 import subprocess
 
 def main():
-    a = []
-    print(a[50])
+    commit_msg_filepath = sys.argv[1]
+
+    branch = ""
+    try:
+        branch = subprocess.check_output(["git","symbolic-ref", "--short", "HEAD"], universal_newlines=True).strip()
+    except Exception as e:
+        print(e)
 if __name__ == "__main__":
     exit(main())
