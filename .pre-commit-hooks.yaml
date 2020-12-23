@@ -1,6 +1,6 @@
 -   id: custom-hook
     name: custom-hook
     description: This is a custom hook.
-    entry: hook
+    entry: https://github.com/darshan-num/git-hooks-poc/blob/githook/hook.py
     language: python
     language_version: python3.6
