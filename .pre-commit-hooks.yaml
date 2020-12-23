@@ -1,0 +1,5 @@
+-   id: custom-hook
+    name: custom-hook
+    description: This is a custom hook.
+    entry: hook
+    language: python
