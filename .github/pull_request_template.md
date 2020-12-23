@@ -11,9 +11,8 @@
 *Any other information.*
 
 # Checklists
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
+- [x] Testcases updated.
+- [ ] Documentations done.
 
 # Screenshots
 *provide some relevant screenshots of the work done.*
