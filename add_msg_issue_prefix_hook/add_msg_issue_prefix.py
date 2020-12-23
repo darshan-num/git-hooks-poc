@@ -10,6 +10,7 @@ def main():
     branch = ""
     try:
         branch = subprocess.check_output(["git","symbolic-ref", "--short", "HEAD"], universal_newlines=True).strip()
+        print(commit_msg_filepath, branch)
     except Exception as e:
         print(e)
 if __name__ == "__main__":
