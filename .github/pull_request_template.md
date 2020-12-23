@@ -13,7 +13,7 @@
 # Checklists
 - [ ] Code Tested?
 - [ ] Testcases updated?
-- [ ] Documentations done?
+- [ ] Documentation done?
 
 # Screenshots
 *provide some relevant screenshots of the work done.*
