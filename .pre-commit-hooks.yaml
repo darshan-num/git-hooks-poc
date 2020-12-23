@@ -1,5 +1,6 @@
 -   id: custom-hook
     name: custom-hook
     description: This is a custom hook.
-    entry: hook
+    entry: python -m hook
     language: python
+    language_version: python3.6
