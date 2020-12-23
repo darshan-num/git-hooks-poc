@@ -7,7 +7,8 @@
 # Additional info
 
 # Checklists
-- [] Testcases written
-- [] Module documentation completed
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
 
 # Screenshots
