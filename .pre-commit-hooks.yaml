@@ -1,6 +1,7 @@
--   id: custom-hook
-    name: custom-hook
-    description: This is a custom hook.
-    entry: hook
+-   id: trailing-whitespace
+    name: Trim Trailing Whitespace
+    description: This hook trims trailing whitespace.
+    entry: trailing-whitespace-fixer
     language: python
-    language_version: python3.6
+    types: [text]
+    stages: [commit, push, manual]
