@@ -1,6 +1,6 @@
 -   id: custom-hook
     name: custom-hook
     description: This is a custom hook.
-    entry: /proj/hook.py
+    entry: hook
     language: python
     language_version: python3.6
