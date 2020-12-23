@@ -10,8 +10,6 @@ import json
 
 
 def main():
-    commit_msg_filepath = sys.argv[1]
-
     branch = ""
     try:
         branch = subprocess.check_output(["git","symbolic-ref", "--short", "HEAD"], universal_newlines=True).strip()
