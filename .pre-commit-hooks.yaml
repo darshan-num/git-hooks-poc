@@ -3,5 +3,6 @@
     description: Checks if the branch name corresponds to a valid task.
     entry: validate-branch-name
     language: python
+    language_version: python3.6
     always_run: true
     stages: [commit]
