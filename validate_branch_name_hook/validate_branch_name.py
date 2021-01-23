@@ -25,7 +25,7 @@ def main():
 
         headers = {
             "Accept": "application/json",
-            "Authorization": "Basic ZGFyc2hhbi5zaGV0aEBudW1lcmF0b3IuY29tOnFnS1ZmTFBaTVRiUnBZUU5DazFNOUVDNQ=="
+            "Authorization": "Basic ZGFyc2hhbi5zaG*******"
         }
         connection = http.client.HTTPSConnection('www.atlassian.net')
         connection.request("GET", url, headers=headers)
